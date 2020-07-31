@@ -1,6 +1,6 @@
-# UNIVERSITYLIST.COM
+# Subscription Invoice App
 
-UNIVERSITYLIST.COM is one stop center site that provides up to date and latest information about all universities around the world.
+Subscription Invoice App let you create subscription for customers' invoice at Ezypay.com.
 
 ## Getting Started
 
@@ -19,31 +19,31 @@ http://nodejs.org/download/
 
 After completing the Node.js installation, go to the project directory and run these commands:
 
-1. Install all the necessary libraries:
+1. Install `nodemon` globally and `yarn`:
+
+```
+npm i nodemon -g
+yarn
+```
+
+After that, go to `subscriptioninvoice/client` folder and run these commands:
+
+2. Install all the necessary libraries:
 
 ```
 npm install
 ```
 
-2. Run the application in the development mode:
+3. Run the application in the development mode:
 
 ```
-npm start
+ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
-
-### ESLint
-
-ESLint will find and check problems in the JavaScript code.<br />
-Run this command to check the code with ESLint:
-
-```
-npx eslint src/**/*.js src/**/**/*.js src/*.js
-```
 
 ## Deployment
 
@@ -60,7 +60,7 @@ The build is minified and the filenames include the hashes.
 
 * [Create React App](https://github.com/facebook/create-react-app) - React build tools
 * [Material-UI](https://github.com/mui-org/material-ui) - React UI framework
-* [Firebase](https://github.com/firebase/firebase-js-sdk) - Realtime database
+* [Express.js](https://github.com/expressjs/express) - Node.js framework
 
 ## Authors
 
