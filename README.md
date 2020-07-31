@@ -17,7 +17,7 @@ http://nodejs.org/download/
 
 ### Installing
 
-After completing the Node.js installation, go to the project directory and run these commands:
+After completing the Node.js installation, go to the project directory and run this commands:
 
 1. Install `nodemon` globally and `yarn`:
 
@@ -26,7 +26,7 @@ npm i nodemon -g
 yarn
 ```
 
-Go to `subscriptioninvoice/client` folder and run these commands:
+Go to `subscriptioninvoice/client` folder and run this commands:
 
 2. Install all the necessary libraries:
 
@@ -34,7 +34,7 @@ Go to `subscriptioninvoice/client` folder and run these commands:
 npm install
 ```
 
-After that, go back to the project directory and run these commands:
+After that, go back to the project directory and run this commands:
 
 3. Run the application in the development mode:
 
