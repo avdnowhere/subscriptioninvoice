@@ -26,13 +26,15 @@ npm i nodemon -g
 yarn
 ```
 
-After that, go to `subscriptioninvoice/client` folder and run these commands:
+Go to `subscriptioninvoice/client` folder and run these commands:
 
 2. Install all the necessary libraries:
 
 ```
 npm install
 ```
+
+After that, go back to the project directory and run these commands:
 
 3. Run the application in the development mode:
 
