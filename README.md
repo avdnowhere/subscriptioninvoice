@@ -52,7 +52,7 @@ You will also see any lint errors in the console.
 Run this command to build the application for production:
 
 ```
-npm run build
+yarn build
 ```
 
 It will correctly bundles React in production mode and optimizes the build for the best performance.<br />
