@@ -12,7 +12,7 @@ Please install Node.js on your computer (NPM will be included once you install i
 You can download Node.js from the link below:
 
 ```
-http://nodejs.org/download/
+https://nodejs.org/en/download/
 ```
 
 ### Installing
